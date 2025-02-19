@@ -7,19 +7,19 @@ Tags: Finished
 
 There are two versions to install docker because of the new Apple CPU chips in newer Mac computers. My computer uses an Intel chip so I will go with that dmg package.
 
-![Screenshot 2025-02-18 at 4.02.24 AM.png](Installing%20Docker%2019e3189dcc458003b4e9c01212e75b2c/Screenshot_2025-02-18_at_4.02.24_AM.png)
+![Screenshot 2025-02-18 at 4.02.24 AM.png](Installing-Docker-19e3189dcc458003b4e9c01212e75b2c/Screenshot_2025-02-18_at_4.02.24_AM.png)
 
 This is the first build that Dockerdocs walks us through. It builds a small to-do application that runs on the local host, and they show us how api works for the greetings. Not entirely sure how api’s work but this is really interesting! They program the text to randomize from whatever is written in the list. As you can see in the text editor window, I took the liberty to add my own prompt. 
 
-![Screenshot 2025-02-18 at 4.11.40 AM.png](Installing%20Docker%2019e3189dcc458003b4e9c01212e75b2c/Screenshot_2025-02-18_at_4.11.40_AM.png)
+![Screenshot 2025-02-18 at 4.11.40 AM.png](Installing-Docker-19e3189dcc458003b4e9c01212e75b2c/Screenshot_2025-02-18_at_4.11.40_AM.png)
 
 They also showed us how to edit the placeholder text within the text box. This did not require the page to be reloaded as when you save the file it will automatically change in the browser!
 
-![Screenshot 2025-02-18 at 4.14.58 AM.png](Installing%20Docker%2019e3189dcc458003b4e9c01212e75b2c/Screenshot_2025-02-18_at_4.14.58_AM.png)
+![Screenshot 2025-02-18 at 4.14.58 AM.png](Installing-Docker-19e3189dcc458003b4e9c01212e75b2c/Screenshot_2025-02-18_at_4.14.58_AM.png)
 
 Then we changed the color of the site through the scss file.
 
-![Screenshot 2025-02-18 at 4.29.15 AM.png](Installing%20Docker%2019e3189dcc458003b4e9c01212e75b2c/Screenshot_2025-02-18_at_4.29.15_AM.png)
+![Screenshot 2025-02-18 at 4.29.15 AM.png](Installing-Docker-19e3189dcc458003b4e9c01212e75b2c/Screenshot_2025-02-18_at_4.29.15_AM.png)
 
 I also took some time to play around with gradients since we were on the topic.
 
@@ -31,9 +31,9 @@ I also took some time to play around with gradients since we were on the topic.
 
 # Building and Pushing the Image
 
-![Screenshot 2025-02-18 at 5.14.50 AM.png](Installing%20Docker%2019e3189dcc458003b4e9c01212e75b2c/Screenshot_2025-02-18_at_5.14.50_AM.png)
+![Screenshot 2025-02-18 at 5.14.50 AM.png](Installing-Docker-19e3189dcc458003b4e9c01212e75b2c/Screenshot_2025-02-18_at_5.14.50_AM.png)
 
-![Screenshot 2025-02-18 at 5.15.19 AM.png](Installing%20Docker%2019e3189dcc458003b4e9c01212e75b2c/Screenshot_2025-02-18_at_5.15.19_AM.png)
+![Screenshot 2025-02-18 at 5.15.19 AM.png](Installing-Docker-19e3189dcc458003b4e9c01212e75b2c/Screenshot_2025-02-18_at_5.15.19_AM.png)
 
 Dockerdocs walks through how to push a build to the repository through terminal commands.
 
@@ -47,7 +47,7 @@ Dockerdocs walks through how to push a build to the repository through terminal 
     docker image ls
     ```
     
-    ![Screenshot 2025-02-18 at 5.19.41 AM.png](Installing%20Docker%2019e3189dcc458003b4e9c01212e75b2c/Screenshot_2025-02-18_at_5.19.41_AM.png)
+    ![Screenshot 2025-02-18 at 5.19.41 AM.png](Installing-Docker-19e3189dcc458003b4e9c01212e75b2c/Screenshot_2025-02-18_at_5.19.41_AM.png)
     
     We can see the image that we created and can now push the image to the repository
     
@@ -59,7 +59,7 @@ Dockerdocs walks through how to push a build to the repository through terminal 
     
     We push the image to the repository as seen in the screenshot below.
     
-    ![Screenshot 2025-02-18 at 5.24.37 AM.png](Installing%20Docker%2019e3189dcc458003b4e9c01212e75b2c/Screenshot_2025-02-18_at_5.24.37_AM.png)
+    ![Screenshot 2025-02-18 at 5.24.37 AM.png](Installing-Docker-19e3189dcc458003b4e9c01212e75b2c/Screenshot_2025-02-18_at_5.24.37_AM.png)
     
 
 It also looks like there’s an option to pull the image from the repository. From my current understanding this seems like snapshots in Minecraft that provides a certain version or build of the game.
