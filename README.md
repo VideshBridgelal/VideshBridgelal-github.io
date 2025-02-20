@@ -2,13 +2,14 @@
  <head>
  <style>
 body {
-   background: linear-gradient(purple, red);
+   background-color: linear-gradient(PowderBlue, IndianRed);
 }
 </style>
  </head>
- 
-<h1>Welcome to Videsh Bridgelal's Portfolio</h1>
 
+ <body>
+  <h1>Welcome to Videsh Bridgelal's Portfolio</h1>
+  
 <h3>About me:</h3>
 <ul>
  <li>Cybersecurity student attending WGU, planning to graduate in 2026</li>
@@ -39,5 +40,6 @@ body {
  <ul>
   <li><a href="InstallingDocker/Installing Docker 19e3189dcc458003b4e9c01212e75b2c.html">Docker</a></li>
  </ul>
-
+ 
+</body>
 </html>
