@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+ 
+
+
 # Welcome to Videsh Bridgelal's Portfolio
 
 ### About me:
@@ -21,3 +27,6 @@
 
 ### Projects:
  - [Docker](90b3266f-a187-45de-8bbc-39a56c70f336_Export-519ef90f-39d8-4912-8231-6926c193b416/Installing-Docker-19e3189dcc458003b4e9c01212e75b2c.md)
+
+</body>
+</html>
