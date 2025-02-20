@@ -2,7 +2,7 @@
  <head>
  <style>
 body {
-   background-color: linear-gradient(PowderBlue, IndianRed);
+   background-image: linear-gradient(to bottom right,PowderBlue, IndianRed);
 }
 </style>
  </head>
