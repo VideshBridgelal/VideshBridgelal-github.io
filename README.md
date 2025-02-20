@@ -27,7 +27,7 @@
  </ul>
 
 <h3>Contact:</h3>
- <ul><li><a href="url">LinkedIn</a></li></ul>
+ <ul><li><a href="https://www.linkedin.com/in/videsh-bridgelal-44b612174/">LinkedIn</a></li></ul>
 
 <h3>Projects:</h3>
  <ul>
