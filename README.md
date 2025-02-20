@@ -1,6 +1,12 @@
 <html>
-<body style="background-color:powderblue;">
-
+ <head>
+ <style>
+body {
+   background: linear-gradient(purple, red);
+}
+</style>
+ </head>
+ 
 <h1>Welcome to Videsh Bridgelal's Portfolio</h1>
 
 <h3>About me:</h3>
@@ -31,9 +37,7 @@
 
 <h3>Projects:</h3>
  <ul>
-  <li><a href="90b3266f-a187-45de-8bbc-39a56c70f336_Export-519ef90f-39d8-4912-8231-6926c193b416/Installing-Docker-19e3189dcc458003b4e9c01212e75b2c.md">Docker</a></li>
   <li><a href="InstallingDocker/Installing Docker 19e3189dcc458003b4e9c01212e75b2c.html">Docker</a></li>
  </ul>
 
-</body>
 </html>
