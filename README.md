@@ -39,6 +39,7 @@ body {
 <h3>Projects:</h3>
  <ul>
   <li><a href="InstallingDocker/Installing Docker 19e3189dcc458003b4e9c01212e75b2c.html">Docker</a></li>
+  <li><a href="CustomizingPortfolio/Customizing Portfolio Using HTML and CSS 1a03189dcc458086b885c82b69333d2e.html">Customizing Portfolio Using HTML and CSS</a></li>
  </ul>
  
 </body>
